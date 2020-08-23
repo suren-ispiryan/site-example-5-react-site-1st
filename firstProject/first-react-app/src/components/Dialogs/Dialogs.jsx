@@ -28,9 +28,9 @@ const Dialogs = (props) => {
                     <NavLink to="/dialogs/5"> Artur </NavLink>
                 </div>
 
-                <div className="friends/6"> Levon </NavLink>
-            </div>s">
-                    <NavLink to="/dialog
+                <div className="friends">
+                    <NavLink to="/dialogs/6"> Levon </NavLink>
+                </div>
 
                 <div className="friends">
                     <NavLink to="/dialogs/7"> Edgar </NavLink>

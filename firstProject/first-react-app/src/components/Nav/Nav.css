@@ -1,0 +1,38 @@
+.nav {
+    grid-area: nav;
+    background-color: forestgreen;
+}
+
+.nav a {
+    color: white;
+}
+
+/* onclick change color */
+nav .active {
+    color: gold;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+ul {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 1px;
+    margin: 0;
+}
+
+li {
+    margin: 5px;
+    padding: 0;
+    border-bottom: black solid 1px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.list {
+    color: crimson;
+}

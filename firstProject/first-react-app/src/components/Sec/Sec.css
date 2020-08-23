@@ -1,0 +1,39 @@
+.sec {
+    grid-area: sec;
+    background-color: aqua;
+}
+
+.sectionback {
+    background-image: cover;
+    height: 200px;
+    width: 100%;
+}
+
+/* Posts */
+.Postlist {
+    padding: 5px;
+    display: flex;
+    align-content: center;
+    color: white;
+}
+
+.textarea {
+    height: 40px;
+    margin: 0 5px 0 5px;
+}
+
+.addBtn {
+    height: 25px;
+    border-radius: 10%;
+    outline: none;
+    border: none;
+    text-align: center;
+    margin: 20px 0 30px 0;
+    cursor: pointer;
+}
+
+.hr {
+    border: none;
+    height: 1px;
+    background-color: black;
+}

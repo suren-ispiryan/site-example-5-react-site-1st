@@ -1,0 +1,11 @@
+
+.appwrapprer{
+    width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas: "head head" "nav sec";
+    grid-template-rows: 60px 1fr;
+    grid-auto-columns: 2fr 10fr;
+  /*  grid-gap: 10px;*/
+}
+
